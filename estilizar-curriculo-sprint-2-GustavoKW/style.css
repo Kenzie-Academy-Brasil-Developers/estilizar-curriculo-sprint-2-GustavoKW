@@ -1,0 +1,64 @@
+.clear {
+	clear: both;
+}
+
+#headshot {
+	width: 12.5%;
+	float: left;
+	margin-right: 30px;
+
+}
+
+#name {
+	float: left;
+	font-family: Rokkitt;
+}
+
+#contactDetails {
+	float: right;
+	font-family: lato;
+}
+
+.sectionTitle {
+	display:block;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+	font-family: Rokkitt;
+	color: #cf8a05;
+	font-style: italic;
+	font-size: 24px;
+	font-weight: 100;
+}
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+	font-family: lato;
+	border-bottom: solid 1px #dedede;
+}
+
+body {
+	background-color: #f3f3f3;
+}
+.mainDetails {
+	border-bottom: solid 2px #cf8a05;
+	margin: 5% 20% 2% 20%;
+	
+}
+#mainArea {
+	margin: 0% 20% 2% 20%;
+}
+.keySkills {
+	column-count: 3;
+
+}
+.titulos{
+	font-size: 24px;
+}
+article {
+	color: #444444
+}
+h2 {
+	font-size: 20px;
+}
